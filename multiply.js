@@ -1,1 +1,1 @@
-console.log("multiply")
+console.log("multiply func")
